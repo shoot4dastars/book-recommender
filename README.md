@@ -57,6 +57,8 @@ It will start a local server such as:
   Running on http://127.0.0.1:7860
 ```
 
+Open the link on your browser.
+
 
 ## Authors
 
