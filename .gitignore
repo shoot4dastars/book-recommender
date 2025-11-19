@@ -1,0 +1,10 @@
+venv/
+.gradio/
+.ipynb
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+books_cleaned.csv
+books_with_categories.csv
+chroma_books_db/
